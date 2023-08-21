@@ -1,9 +1,0 @@
-﻿sudo cp -R ./Desktop/jalali /opt/processmaker-3.3.2-0/apps/processmaker/htdocs/workflow/public_html/lib/pmdynaform/libs/datepicker
-
-
-sudo chmod 777 ./classes/class.happyHome.php
-
-sudo chown -R mysql:mysql ./crm
-
-chown -R mysql:mysql ./processmaker-3.3.2-0/mysql/data
-
